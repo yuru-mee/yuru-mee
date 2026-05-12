@@ -33,13 +33,6 @@
 
 ![Japanese](https://img.shields.io/badge/Japanese-Beginner-red?style=for-the-badge\&logo=googletranslate\&logoColor=white)
 
----
-
-## GitHub Stats
-
-![Yurumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeerin\&show_icons=true\&theme=tokyonight)
-
----
 
 ## Streak Stats
 
