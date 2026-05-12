@@ -47,12 +47,6 @@
 
 ---
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeerin\&layout=compact\&theme=tokyonight)
-
----
-
 ##  About Me
 
 * ⚙️ I enjoy low-level programming (C & Rust)
