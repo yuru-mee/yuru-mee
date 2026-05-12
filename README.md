@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Hey there, I'm Yurumee
+# 👋 Hey there, I'm Yume
 
 🚀 Passionate about coding, systems, and building cool stuff
 💻 Exploring both low-level and high-level worlds
