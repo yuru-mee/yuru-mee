@@ -37,19 +37,19 @@
 
 ## GitHub Stats
 
-![Yurumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuru-mee\&show_icons=true\&theme=tokyonight)
+![Yurumee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeerin\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yuru-mee\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=yumeerin\&theme=tokyonight)
 
 ---
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuru-mee\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeerin\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -79,6 +79,6 @@
 
 ##  Contact
 
-* GitHub: https://github.com/yuru-mee
+* GitHub: https://github.com/yumeerin
 
 ---
