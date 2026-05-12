@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yurumee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yumee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Hey there, I'm Yume
+# 👋 Hey there, I'm Yumee
 
 🚀 Passionate about coding, systems, and building cool stuff
 💻 Exploring both low-level and high-level worlds
